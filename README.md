@@ -1,4 +1,4 @@
-### DEPLOY LARAVEL WITH DOCKER
+# DEPLOY LARAVEL WITH DOCKER
 ## Prerequisites
 -  Dockerfile
 -  docker-compose
