@@ -3,7 +3,7 @@
 -  Dockerfile
 -  docker-compose
 -  composer
--  php:7.0.0
+-  php:7.0.0 on host machine (ubuntu)
 
 ### Steps
 1. run git clone https://github.com/academynusa/perpus-laravel.git
